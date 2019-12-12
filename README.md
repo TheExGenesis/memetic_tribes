@@ -1,5 +1,6 @@
 # memetic_tribes
 Empirically studying the Memetic Tribes of Culture War 2.0 in Twitter Mutuals Networks
+
 Francisco Carvalho, João Andrade, Paulo Dias
 
 Abstract
